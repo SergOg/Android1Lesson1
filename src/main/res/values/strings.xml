@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tasks1-4</string>
+    <string name="hint1">Здесь вводят текст</string>
+    <string name="text1">Введите текст</string>
+    <string name="button">Кнопочка</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>
