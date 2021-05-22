@@ -50,4 +50,13 @@
         android:layout_gravity="center"
         android:textColor="@color/RED" />
 
+    <Button
+        android:id="@+id/switchLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="switchLayout"
+        android:text="Переход на другой экран"
+        tools:ignore="OnClick" />
+
 </LinearLayout>
